@@ -1,0 +1,9 @@
+
+{
+    "name": "prbyds",
+    "description": "Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/rockhero1234/Aryans-Cloudstream-Extensions/builds/plugins.json"
+    ]
+}
